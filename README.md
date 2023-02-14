@@ -98,7 +98,6 @@
 <img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="50" />
 <img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="50" />
 
-
 </td>
 <td align="center" valign="top">
 
@@ -122,20 +121,19 @@
 </td>
 <td align="center" valign="top">
 
-
-
 ### Want to learn
 
 <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
-<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
-<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" />
+<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
-<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
+
+<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+<img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" />
+<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
+<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
 </td>
 </tr>
 
