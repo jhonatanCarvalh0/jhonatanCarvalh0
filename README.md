@@ -95,8 +95,8 @@
 
 ### Database
 
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="70" />
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="40"/>
+<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="90" />
+<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="80" width="150"/>
 
 </td>
 <td align="center" valign="top">
