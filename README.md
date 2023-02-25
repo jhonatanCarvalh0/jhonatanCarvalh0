@@ -74,7 +74,7 @@
 
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" title="Express.js" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -85,7 +85,7 @@
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
 
 </td>
 </tr>
@@ -95,8 +95,8 @@
 
 ### Database
 
-<img style="margin: 10px" src="assets/mysql.svg" alt="MySQL" title="MySQL" height="90" />
-<img style="margin: 10px" src="assets/mongodb.svg" alt="MongoDB" title="MongoDB" height="80" width="150"/>
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" alt="Postgres" title="Postgres" height="90" />
+<img style="margin: 10px" src="https://thumbs.bfldr.com/at/hj345wvxsvpbc82vchqcj9qh?expiry=1677895186&fit=bounds&height=800&sig=ZDExMzQ1OTk5NGI4ZTNlNzJmYzAwY2VkY2YzOWE0ODlkYWVkZWNkNA%3D%3D&width=1100" alt="MongoDB" title="MongoDB" height="90"/>
 
 </td>
 <td align="center" valign="top">
@@ -114,10 +114,10 @@
 
 ### Learning
 
-<img style="margin: 10px" src="assets/reactjs.svg" alt="React" title="React" height="50" />
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-<img style="margin: 10px" src="assets/prisma.svg" alt="Prisma" title="Prisma" height="50" />
+<img style="margin: 10px" src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" title="Prisma" height="50" />
 
 </td>
 <td align="center" valign="top">
@@ -131,7 +131,7 @@
 <img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
 
 <img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
-<img style="margin: 10px" src="assets/docker.svg" alt="Docker" title="Docker" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker" title="Docker" height="50" />
 </td>
 </tr>
 
