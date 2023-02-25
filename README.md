@@ -72,6 +72,7 @@
 
 ### Backend
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" title="Express.js" height="50" />
@@ -81,11 +82,13 @@
 
 ### Frontend
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
 <img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
 <img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
 <img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
+</div>
 
 </td>
 </tr>
@@ -95,6 +98,7 @@
 
 ### Database
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png?20080116191800" alt="Postgres" title="Postgres" height="90" />
 <img style="margin: 10px" src="https://thumbs.bfldr.com/at/hj345wvxsvpbc82vchqcj9qh?expiry=1677895186&fit=bounds&height=800&sig=ZDExMzQ1OTk5NGI4ZTNlNzJmYzAwY2VkY2YzOWE0ODlkYWVkZWNkNA%3D%3D&width=1100" alt="MongoDB" title="MongoDB" height="90"/>
 
@@ -103,6 +107,7 @@
 
 ### Tools & IDEs
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
 <img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
 <img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
@@ -114,6 +119,7 @@
 
 ### Learning
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
@@ -124,6 +130,7 @@
 
 ### Want to learn
 
+<div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
