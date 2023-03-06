@@ -46,6 +46,8 @@
 
 🔮 I'm currently looking to expand my knowledge and get my first job as a web developer working with MongoDB, Express, ReactJS and NodeJS (MERN Stack), learning one technology at a time patiently, one step at a time. In addition, as I consolidate my knowledge I intend to pass on what I learned either through classes at colleges or videos on Youtube.
 
+🔮 My dream? Being and working as a developer, participating in an incredible team where I can add, help and be helped, grow enough in my career to pass on what I learned to those who are starting out just as I am now!
+
 </details>
 
 <details>
@@ -56,6 +58,8 @@
 📙 Iniciei a faculdade aos 20 anos em 2018, ainda não atuei na área como desenvolvedor, estou a procura dessa oportunidade e estou estudando pra isso, ainda há muito o que aprender e sei muito bem que não há lugar melhor para se desenvolver do que no ambiente de trabalho. Digo isso pois, por trabalhar como suporte, tive que lidar muitas vezes com o usuário, então me desenvolvi para saber lidar com diferentes usuários em diferentes situações.
 
 🔮 Atualmente estou em busca de ampliar meu conhecimento e conseguir meu primeiro trabalho como desenvolvedor web trabalhando com MongoDB, Express, ReactJS e NodeJS (MERN Stack), aprendendo uma tecnologia de cada vez pacientemente, um passo de cada vez. Além disso, conforme eu for consolidando meu conhecimento eu pretendo repassar o que aprendi sejam através de aulas em faculdades ou vídeos no Youtube.
+  
+🔮 Meu sonho? Ser e trabalhar como desenvolvedor, participar de uma equipe incrivel onde eu possa somar, ajudar e ser ajudado, crescer o suficiente na carreira para repassar o que aprendi para os que estão iniciando assim como eu estou agora!
 
 </details>
 
