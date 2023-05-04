@@ -130,6 +130,7 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
 <img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
 <img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+  <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" title="Prisma" height="50" />
 </div>
 
@@ -139,7 +140,6 @@
 ### Want to learn
 
 <div style = "background: white; border-radius: 2rem; border">
-<img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
 <img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
 <img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
