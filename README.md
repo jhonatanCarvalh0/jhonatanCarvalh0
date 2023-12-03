@@ -1,16 +1,20 @@
 ## Oi, Meu nome é <strong>Jhonatan</strong>! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="float:right; min-width:400px; max-width:400px; width:400px; margin-left:20px;">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div style="text-align:justify; max-width: 425px">
-    <p>Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.</p>
-    <p>Graduado em Sistemas de Informação na Faculdade Sapiens, estudando sobre Ciência e Análise de Dados atualmente.</p>
-    <p>Minha jornada profissional é alimentada pelo compartilhamento de conhecimento e uma mente sempre aberta às novas tecnologias. Não me vejo apenas como um especialista em uma área da TI, mas como um solucionador de problemas, sempre pronto para enfrentar novos desafios e explorar oportunidades inexploradas.</p>
-    <p>Minha abordagem é pautada pela simplicidade e eficiência, visando soluções que maximizem resultados com o mínimo esforço. Para mim, otimizar processos complexos para a simplicidade de um botão é um objetivo constante. Se você tem interesse em colaborar em projetos que buscam inovar e simplificar o mundo digital, adoraria trocar ideias e conectar.</p>
-</div>
+
+<p align="left"> 
+Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
+
+Graduado em Sistemas de Informação na Faculdade Sapiens, estudando sobre Ciência e Análise de Dados atualmente.
+
+Minha jornada profissional é alimentada pelo compartilhamento de conhecimento e uma mente sempre aberta às novas tecnologias. Não me vejo apenas como um especialista em uma área da TI, mas como um solucionador de problemas, sempre pronto para enfrentar novos desafios e explorar oportunidades inexploradas.
+
+Minha abordagem é pautada pela simplicidade e eficiência, visando soluções que maximizem resultados com o mínimo esforço. Para mim, otimizar processos complexos para a simplicidade de um botão é um objetivo constante. Se você tem interesse em colaborar em projetos que buscam inovar e simplificar o mundo digital, adoraria trocar ideias e conectar.
+
 
 <h2 align="left">
-👻 Linguagens:
+🦄 Linguagens:
 </h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
