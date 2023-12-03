@@ -85,14 +85,3 @@ Minha abordagem é pautada pela simplicidade e eficiência, visando soluções q
     />
   </a>
 </p>
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/jhonatanCarvalh0/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
