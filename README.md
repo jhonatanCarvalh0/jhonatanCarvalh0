@@ -1,11 +1,10 @@
 ## Oi, Meu nome é <strong>Jhonatan</strong>! 👋
 
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px"  align="right">
-<img src="" alt="" height="200px">
+
 
 <p align="left"> 
-  Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
+Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
 
 Graduado em Sistemas de Informação na Faculdade Sapiens, estudando sobre Ciência e Análise de Dados atualmente.
 
