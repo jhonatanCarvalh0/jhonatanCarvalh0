@@ -77,9 +77,9 @@
 ### Backend
 
 <div style = "background: white; border-radius: 2rem; border">
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/express.svg" alt="Express.js" title="Express.js" height="50" />
+<img style="margin: 10px" src="../assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+<img style="margin: 10px" src="../assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="../assets/express.svg" alt="Express.js" title="Express.js" height="50" />
 </div>
 
 </td>
@@ -88,10 +88,10 @@
 ### Frontend
 
 <div style = "background: white; border-radius: 2rem; border">
-<img style="margin: 10px" src="assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
-<img style="margin: 10px" src="assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
-<img style="margin: 10px" src="assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
-<img style="margin: 10px" src="assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
+<img style="margin: 10px" src="../assets/html5.svg" alt="HTML5" title="HTML5" height="50" />
+<img style="margin: 10px" src="../assets/css3.svg" alt="CSS3" title="CSS3" height="50" />
+<img style="margin: 10px" src="../assets/javascript.svg" alt="JavaScript" title="JavaScript" height="50" />
+<img style="margin: 10px" src="../assets/nodejs.svg" alt="Node.js" title="Node.js" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
 </div>
 
@@ -114,9 +114,9 @@
 ### Tools & IDEs
 
 <div style = "background: white; border-radius: 2rem; border">
-<img style="margin: 10px" src="assets/miro.svg" alt="Miro" title="Miro" height="50" />
-<img style="margin: 10px" src="assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
-<img style="margin: 10px" src="assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
+<img style="margin: 10px" src="../assets/miro.svg" alt="Miro" title="Miro" height="50" />
+<img style="margin: 10px" src="../assets/github-desktop.svg" alt="GitHub Desktop" title="GitHub Desktop" height="50" />
+<img style="margin: 10px" src="../assets/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" height="50" />
 </div>
 
 </td>
@@ -128,9 +128,9 @@
 
 <div style = "background: white; border-radius: 2rem; border">
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="React" title="React" height="50" />
-<img style="margin: 10px" src="assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
-<img style="margin: 10px" src="assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
-  <img style="margin: 10px" src="assets/angular.svg" alt="Angular" title="Angular" height="50" />
+<img style="margin: 10px" src="../assets/typescript.svg" alt="TypeScript" title="TypeScript" height="50" />
+<img style="margin: 10px" src="../assets/nestjs.svg" alt="NestJS" title="NestJS" height="50" />
+  <img style="margin: 10px" src="../assets/angular.svg" alt="Angular" title="Angular" height="50" />
 <img style="margin: 10px" src="https://prismalens.vercel.app/header/logo-dark.svg" alt="Prisma" title="Prisma" height="50" />
 </div>
 
@@ -140,12 +140,12 @@
 ### Want to learn
 
 <div style = "background: white; border-radius: 2rem; border">
-<img style="margin: 10px" src="assets/python.svg" alt="Python" title="Python" height="50" />
-<img style="margin: 10px" src="assets/php.svg" alt="PHP" title="PHP" height="50" />
-<img style="margin: 10px" src="assets/android.svg" alt="Android" title="Android" height="50" />
-<img style="margin: 10px" src="assets/rust.svg" alt="Rust" title="Rust" height="50" />
+<img style="margin: 10px" src="../assets/python.svg" alt="Python" title="Python" height="50" />
+<img style="margin: 10px" src="../assets/php.svg" alt="PHP" title="PHP" height="50" />
+<img style="margin: 10px" src="../assets/android.svg" alt="Android" title="Android" height="50" />
+<img style="margin: 10px" src="../assets/rust.svg" alt="Rust" title="Rust" height="50" />
 
-<img style="margin: 10px" src="assets/sass.svg" alt="Sass" title="Sass" height="50" />
+<img style="margin: 10px" src="../assets/sass.svg" alt="Sass" title="Sass" height="50" />
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker" title="Docker" height="50" />
 </div>
 
