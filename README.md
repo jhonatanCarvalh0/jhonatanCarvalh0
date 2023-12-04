@@ -14,7 +14,7 @@ Minha abordagem é pautada pela simplicidade e eficiência, visando soluções q
 
 
 <h2 align="left">
-👻 Linguagens:
+👻 Tecnologias:
 </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
