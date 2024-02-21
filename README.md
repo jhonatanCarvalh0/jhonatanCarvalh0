@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-Sou Rondoniense, tenho 25 anos e sou <strong>Desenvolvedor Fullstack</strong>.
+Sou Rondoniense, tenho 26 anos e sou <strong>Desenvolvedor Fullstack</strong>.
 
 Graduado em Sistemas de Informação na Faculdade Sapiens, estudando sobre Ciência e Análise de Dados atualmente.
 
