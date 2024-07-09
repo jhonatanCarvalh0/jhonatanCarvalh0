@@ -15,9 +15,7 @@ Minha abordagem é pautada pela simplicidade e eficiência, visando soluções q
 Atualmente estou trabalhando na Controladoria Geral de Município (CGM) como Gerente da Divisão de Auditoria da Tecnologia da Informação (DATI). Também estou iniciando uma Software House chamada Blokk Studios para 2024.
 
 ## 
-## Repositório DATI <a href="https://github.com/DATI-CGM-PVH" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 ## Repositório CGM <a href="https://github.com/CGM-PVH" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-## Repositório BLOKK STUDIOS <a href="https://github.com/BlokkStudios" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <h2 align="left">
 👻 Tecnologias:
 </h2>
