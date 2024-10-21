@@ -6,7 +6,7 @@ Bem-vindo ao meu GitHub! Sou o **Jhonatan**, um desenvolvedor Full Stack especia
 
 Sou apaixonado por programação e sempre busco novas maneiras de otimizar e inovar em projetos de desenvolvimento. Ao longo da minha carreira, trabalhei tanto com **frontend** quanto **backend**, focando em construir aplicativos web escaláveis e fáceis de manter.
 
-Aqui estão algumas das tecnologias que utilizo regularmente ``[as que possuem * estou estudando]``:
+Aqui estão algumas das tecnologias que utilizo regularmente e meus idiomas ``[as que possuem * estou estudando]``:
 - **![IDIOMAS](https://img.shields.io/badge/IDIOMAS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**  ![PORTUGUÊS](https://img.shields.io/badge/Português_(NATIVO)-FFBF00?style=for-the-badge&logoColor=black)
   ![INGLÊS](https://img.shields.io/badge/Inglês_B2*-1E37FF?style=for-the-badge&logoColor=black)
 
