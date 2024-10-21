@@ -72,20 +72,16 @@ Se você quiser bater um papo sobre desenvolvimento, BI, ou colaborar em projeto
 Vamos construir algo incrível juntos!
 <hr>
 
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
-  <img
+<img
     src="https://github-readme-stats.vercel.app/api?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     alt="Github stats"
     style="max-width: 48%;"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Top Languages"
     style="max-width: 48%;"
   />
-</div>
 
 
 
