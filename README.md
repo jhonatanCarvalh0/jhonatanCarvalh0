@@ -73,31 +73,22 @@ Vamos construir algo incrível juntos!
 <hr>
 
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-         src="https://github-readme-stats.vercel.app/api?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jhonatanCarvalh0&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    alt="Github stats"
+    style="max-width: 48%;"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanCarvalh0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    alt="Top Languages"
+    style="max-width: 48%;"
+  />
+</div>
+
+
+
 
 <br>
 
