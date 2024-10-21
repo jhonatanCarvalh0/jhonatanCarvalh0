@@ -1,6 +1,6 @@
 # 👨‍💻 **Jhonatan Silva Carvalho - Full Stack Developer**
 
-Bem-vindo ao meu GitHub! Sou o **Jhonatan**, um desenvolvedor Full Stack especializado em criar soluções para **BI**, **Web Development** e projetos que envolvem **análise de dados**. Tenho experiência sólida em **JavaScript**, **React**, **NestJS**, **C#**, entre outras tecnologias que me permitem resolver problemas complexos de forma eficiente.
+Bem-vindo ao meu GitHub! Sou o **Jhonatan**, um desenvolvedor Full Stack especializado em criar soluções para **BI**, **Web Development** e projetos que envolvem **análise de dados**. Tenho experiência sólida em **JavaScript/TypeScript**, **React**, **NestJS**, entre outras tecnologias que me permitem resolver problemas complexos de forma eficiente.
 
 ## 🚀 **Sobre Mim**
 
