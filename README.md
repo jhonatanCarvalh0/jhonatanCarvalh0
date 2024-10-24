@@ -8,7 +8,7 @@ Sou apaixonado por programação e sempre busco novas maneiras de otimizar e ino
 
 Aqui estão algumas das tecnologias que utilizo regularmente e meus idiomas ``[as que possuem * estou estudando]``:
 - **![IDIOMAS](https://img.shields.io/badge/IDIOMAS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**  ![PORTUGUÊS](https://img.shields.io/badge/Português_(NATIVO)-FFBF00?style=for-the-badge&logoColor=black)
-  ![INGLÊS](https://img.shields.io/badge/Inglês_B2*-1E37FF?style=for-the-badge&logoColor=black)
+  ![INGLÊS](https://img.shields.io/badge/Inglês_B2~C1*-1E37FF?style=for-the-badge&logoColor=black)
 
 - **![LINGUGAGENS](https://img.shields.io/badge/LINGUAGENS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
