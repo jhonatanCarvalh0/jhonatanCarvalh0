@@ -8,7 +8,7 @@ Sou apaixonado por programação e sempre busco novas maneiras de otimizar e ino
 
 Aqui estão algumas das tecnologias que utilizo regularmente e meus idiomas ``[as que possuem * estou estudando]``:
 - **![IDIOMAS](https://img.shields.io/badge/IDIOMAS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**  ![PORTUGUÊS](https://img.shields.io/badge/Português_(NATIVO)-FFBF00?style=for-the-badge&logoColor=black)
-  ![INGLÊS](https://img.shields.io/badge/Inglês_B2~C1*-1E37FF?style=for-the-badge&logoColor=black)
+  ![INGLÊS](https://img.shields.io/badge/Inglês_B2*-1E37FF?style=for-the-badge&logoColor=black)
 
 - **![LINGUGAGENS](https://img.shields.io/badge/LINGUAGENS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,8 +38,10 @@ Aqui estão algumas das tecnologias que utilizo regularmente e meus idiomas ``[a
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **![FERRAMENTAS](https://img.shields.io/badge/FERRAMENTAS-000?style=for-the-badge&logo=Microsoft-edge&logoColor=white)**
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=VSCode&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker*-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
