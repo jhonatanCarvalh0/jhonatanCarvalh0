@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9AFE&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+%26+React+Specialist;Business+Intelligence+(BI);IT+Analyst+%40+CREFITO-18" alt="Typing SVG" />
   
-  <h1>Olá, sou Jhonatan Silva Carvalho! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Olá, sou Jhonatan Carvalho! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <p>
     <em>Desenvolvedor Full Stack focado em Interfaces Intuitivas, BI e Soluções Escaláveis.</em>
